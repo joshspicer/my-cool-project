@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/joshspicer/more-features/cowsay:latest": {}
+  },
+  "postAttachCommand": "cowsay 'boo!'"
+}
